@@ -1,0 +1,15 @@
+/Users/personal3/Downloads/code/mycodedir/lab-2-game-of-sticks-SavannaDickie/bin/Debug/net8.0/lab-2-game-of-sticks-SavannaDickie
+/Users/personal3/Downloads/code/mycodedir/lab-2-game-of-sticks-SavannaDickie/bin/Debug/net8.0/lab-2-game-of-sticks-SavannaDickie.deps.json
+/Users/personal3/Downloads/code/mycodedir/lab-2-game-of-sticks-SavannaDickie/bin/Debug/net8.0/lab-2-game-of-sticks-SavannaDickie.runtimeconfig.json
+/Users/personal3/Downloads/code/mycodedir/lab-2-game-of-sticks-SavannaDickie/bin/Debug/net8.0/lab-2-game-of-sticks-SavannaDickie.dll
+/Users/personal3/Downloads/code/mycodedir/lab-2-game-of-sticks-SavannaDickie/bin/Debug/net8.0/lab-2-game-of-sticks-SavannaDickie.pdb
+/Users/personal3/Downloads/code/mycodedir/lab-2-game-of-sticks-SavannaDickie/obj/Debug/net8.0/lab-2-game-of-sticks-SavannaDickie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/personal3/Downloads/code/mycodedir/lab-2-game-of-sticks-SavannaDickie/obj/Debug/net8.0/lab-2-game-of-sticks-SavannaDickie.AssemblyInfoInputs.cache
+/Users/personal3/Downloads/code/mycodedir/lab-2-game-of-sticks-SavannaDickie/obj/Debug/net8.0/lab-2-game-of-sticks-SavannaDickie.AssemblyInfo.cs
+/Users/personal3/Downloads/code/mycodedir/lab-2-game-of-sticks-SavannaDickie/obj/Debug/net8.0/lab-2-game-of-sticks-SavannaDickie.csproj.CoreCompileInputs.cache
+/Users/personal3/Downloads/code/mycodedir/lab-2-game-of-sticks-SavannaDickie/obj/Debug/net8.0/lab-2-game-of-sticks-SavannaDickie.sourcelink.json
+/Users/personal3/Downloads/code/mycodedir/lab-2-game-of-sticks-SavannaDickie/obj/Debug/net8.0/lab-2-game-of-sticks-SavannaDickie.dll
+/Users/personal3/Downloads/code/mycodedir/lab-2-game-of-sticks-SavannaDickie/obj/Debug/net8.0/refint/lab-2-game-of-sticks-SavannaDickie.dll
+/Users/personal3/Downloads/code/mycodedir/lab-2-game-of-sticks-SavannaDickie/obj/Debug/net8.0/lab-2-game-of-sticks-SavannaDickie.pdb
+/Users/personal3/Downloads/code/mycodedir/lab-2-game-of-sticks-SavannaDickie/obj/Debug/net8.0/lab-2-game-of-sticks-SavannaDickie.genruntimeconfig.cache
+/Users/personal3/Downloads/code/mycodedir/lab-2-game-of-sticks-SavannaDickie/obj/Debug/net8.0/ref/lab-2-game-of-sticks-SavannaDickie.dll
